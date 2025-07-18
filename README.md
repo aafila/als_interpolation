@@ -86,7 +86,8 @@ project/
 | `20250528_methods_rmse_all.csv`                     | RMSE for all combinations (method × axis)   |
 | `20250528_selected_methods_compute_time.csv`        | Compute time for 4 selected methods         |
 
-S7_1 laz file was taken from OpenGF Publicly available source: https://drive.google.com/drive/folders/1ud3fuiaNGHBiTVmIg36mrDarz-zzCzID It is part of https://github.com/Nathan-UW/OpenGF?tab=readme-ov-file repository. Paper link: https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/html/Qin_OpenGF_An_Ultra-Large-Scale_Ground_Filtering_Dataset_Built_Upon_Open_ALS_CVPRW_2021_paper.html
+-
+S7_1 laz file was taken from OpenGF Publicly available source took from [here](https://drive.google.com/drive/folders/1ud3fuiaNGHBiTVmIg36mrDarz-zzCzID). It is part of [this repository](https://github.com/Nathan-UW/OpenGF?tab=readme-ov-file) . [Paper link](https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/html/Qin_OpenGF_An_Ultra-Large-Scale_Ground_Filtering_Dataset_Built_Upon_Open_ALS_CVPRW_2021_paper.html)
 ---
 
 ## 📚 Notebooks
@@ -137,5 +138,3 @@ Required packages include:
 
 This repository is part of a research project on **terrain reconstruction using geometric analysis and anisotropy-aware interpolation**. For questions or collaboration, please contact the repository owner.
 =======
-# als_interpolation
->>>>>>> 2f89deb487869a56bae2604b7a6f6041fb85f935

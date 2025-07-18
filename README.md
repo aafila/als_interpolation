@@ -79,15 +79,14 @@ project/
 
 ## 📦 Datasets
 
-| File                                               | Description                                 |
-|----------------------------------------------------|---------------------------------------------|
+| File                                                | Description                                 |
+|-----------------------------------------------------|---------------------------------------------|
 | `S7_1.laz`                                          | Ground-filtered aerial point cloud          |
 | `20250528_30x_voids.csv`                            | 30 rectangular occlusions (test zones)      |
 | `20250528_methods_rmse_all.csv`                     | RMSE for all combinations (method × axis)   |
 | `20250528_selected_methods_compute_time.csv`        | Compute time for 4 selected methods         |
 
--
-S7_1 laz file was taken from OpenGF Publicly available source took from [here](https://drive.google.com/drive/folders/1ud3fuiaNGHBiTVmIg36mrDarz-zzCzID). It is part of [this repository](https://github.com/Nathan-UW/OpenGF?tab=readme-ov-file) . [Paper link](https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/html/Qin_OpenGF_An_Ultra-Large-Scale_Ground_Filtering_Dataset_Built_Upon_Open_ALS_CVPRW_2021_paper.html)
+S7_1 laz file was taken from OpenGF Publicly available source took from [here](https://drive.google.com/drive/folders/1ud3fuiaNGHBiTVmIg36mrDarz-zzCzID). It is part of [this repository](https://github.com/Nathan-UW/OpenGF?tab=readme-ov-file). [Paper link](https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/html/Qin_OpenGF_An_Ultra-Large-Scale_Ground_Filtering_Dataset_Built_Upon_Open_ALS_CVPRW_2021_paper.html)
 ---
 
 ## 📚 Notebooks

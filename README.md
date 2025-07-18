@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # A Novel Framework for Efficient Reconstruction of Occluded Terrains Using Geometric Analysis and Iterative Plane Fitting
 
 Authors:
